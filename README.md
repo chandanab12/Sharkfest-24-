@@ -68,6 +68,35 @@ Open source cyber tools
 - Snort
 - Zeek (IDS)
 
-Zeek 
+https://github.com/b-yond-infinite-network/sharkfest-us-2024/tree/main
+
+https://colab.research.google.com/github/b-yond-infinite-network/sharkfest-us-2024/blob/main/notebooks/wifi-health-checks-analysis.ipynb?authuser=2#scrollTo=UvGPFfsscTFl
+
+Lab answers from Ross Class
+
+https://www.dropbox.com/scl/fi/esk8g9j029yicsgssosna/WiresharkSkills1.zip?rlkey=h49yfkgat8cmiqicxs13uvhum&e=4&dl=0
+
+https://blog.packet-foo.com/2015/03/tcp-analysis-and-the-five-tuple/
+https://www.zama.ai/about
+
+https://en.wikipedia.org/wiki/Kyber
+
+https://pq.cloudflareresearch.com/
+
+https://lekensteyn.nl/logitech-unifying.html
+
+https://zeek.org/
+
+https://packetbomb.com/category/text/
+
+https://www.b-yond.com/comparative-analysis
+
+https://mininet.org/
+https://blog.codavel.com/http2-multiplexing
+
+https://github.com/packetpioneer/sfus24/blob/main/sf24us_quic.pcapng
+
+https://www.fastly.com/blog/minimizing-ossification-risk-is-everyones-responsibility/
+ 
 
 
